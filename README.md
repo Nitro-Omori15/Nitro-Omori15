@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Packet Sniffer</b>
-  - Link here
+- <b>Port Scanner Detector</b>
+  - https://github.com/Nitro-Omori15/PortScannerDetector
 
 <!--
 **Nitro-Omori15/Nitro-Omori15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
