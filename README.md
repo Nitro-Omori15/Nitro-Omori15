@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1>Hello, I'm Monserrat! 👋
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
