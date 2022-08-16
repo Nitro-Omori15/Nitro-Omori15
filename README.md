@@ -4,6 +4,8 @@
 
 - <b>Port Scanner Detector</b>
   - https://github.com/Nitro-Omori15/PortScannerDetector
+  - <b>Network Change Monitor Tool</b>
+  - Link here
 
 <!--
 **Nitro-Omori15/Nitro-Omori15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
