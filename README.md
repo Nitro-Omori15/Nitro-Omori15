@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Packet Sniffer (AlgoExpert)</b>
+- <b>Packet Sniffer</b>
   - Link here
 
 <!--
